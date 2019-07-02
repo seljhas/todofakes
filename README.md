@@ -20,4 +20,4 @@ The REST endpoints will be like:
 ## Ejecutar
 
 ## Autores ✒️
-* **Selma Mejia** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Selma Mejia** - *Trabajo Inicial* -
