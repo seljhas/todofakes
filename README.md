@@ -4,9 +4,9 @@ This is a REST API that generate fake orders.
 
 The REST endpoints will be like:
 * POST /fake/orders
-* * Query parameter (Optional) 
-* * * ‘n’: Indicate how many fake orders to generate. Default to 1.
-* * Return always a list of fake orders
+* Query parameter (Optional) 
+* ‘n’: Indicate how many fake orders to generate. Default to 1.
+*  Return always a list of fake orders
 
 
 ## Environment 🚀
